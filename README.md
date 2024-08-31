@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahyalfan&show_icons=true&locale=en&layout=compact" alt="ahyalfan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahyalfan&show_icons=true&locale=en" alt="ahyalfan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahyalfan&" alt="ahyalfan" /></p>
