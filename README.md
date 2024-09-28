@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmad Yogi Al Fandi</h1>
 <h3 align="center">A passionate Fullstack Developer From Indonesia</h3>
-<img align="right" alt="cat" width="400" src="https://dribbble.com/shots/8630894-Programmer-cat">
+<img align="right" alt="cat" width="400" src="https://dribbble.com/shots/8630894-Programmer-cat/attachments/888068?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahyalfan&label=Profile%20views&color=0e75b6&style=flat" alt="ahyalfan" /> </p>
 
