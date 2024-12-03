@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, NoSQL, Devops, AI, and Mobile**
 
-- 💬 Ask me about **Freelance**
+- 💬 Ask me about **Freelance and Programming**
 
 - 📫 How to reach me **alfandi0857@gmail.com**
 
