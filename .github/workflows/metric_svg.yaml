@@ -8,6 +8,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # ⚠️ Wajib untuk mengupdate file
     steps:
       - name: display_information_1
         uses: lowlighter/metrics@latest
