@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            11969 Commits
+                            11967 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -216,23 +216,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fe41703</div>
-                                        <div class="message">feat: desktop environment support
-
-create my simple desktop environment, currently this a fondation base of
-my desktop environment so that i can improve and import some independent
-software to desktop
-
-reference:
-- https://wiki.osdev.org/VGA_Hardware#The_CRT_Controller
-- https://wiki.osdev.org/VGA_Hardware#Resolution_and_Timing
-- https://wiki.osdev.org/Time_And_Date
-- https://wiki.osdev.org/Video_RAM
-- https://wiki.osdev.org/Scalable_Screen_Font
-- https://wiki.osdev.org/GUI
-- https://wiki.osdev.org/Compositing
-
-Signed-off-by: slowy07 &lt;slowy.arfy@proton.me&gt;</div>
+                                        <div class="sha">#cd07252</div>
+                                        <div class="message">docs: well documentation for code (#5)</div>
                                     </div>
                                 </div>
                             </section>
@@ -242,7 +227,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@proton.me&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2025, 08:08:39 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Feb 2025, 17:15:55 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
