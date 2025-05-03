@@ -9,6 +9,8 @@
 
 <hr />
 
+## 📊 Breakdown Waktu Ngoding
+
 <!--START_SECTION:waka-->
 
 ```txt
