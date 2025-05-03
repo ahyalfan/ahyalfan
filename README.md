@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **<alfandi0857@gmail.com>**
 
+<hr />
+
 <!--START_SECTION:waka-->
 
 ```txt
