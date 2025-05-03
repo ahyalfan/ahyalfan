@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **<alfandi0857@gmail.com>**
 
-<hr />
 
 ## 📊 Breakdown Waktu Ngoding
 
