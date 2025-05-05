@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 */3 * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   update-readme:
@@ -20,3 +20,11 @@ jobs:
           BLOCKS: ░▒▓█ # optional
           TIME_RANGE: all_time # optional
           SHOW_TOTAL: true # optional
+           ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: ahyalfan # optional
+          AUTHOR_EMAIL: alfadndi0857@gmail.com # optional
