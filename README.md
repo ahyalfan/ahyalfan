@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 248 hrs 23 mins
+Total Time: 254 hrs 59 mins
 
-Java                                   135 hrs 31 mins █████████████▓░░░░░░░░░░░   54.30 %
-Go                                     63 hrs 51 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
-Python                                 8 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-SQL                                    6 hrs 41 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Markdown                               6 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Java                                   135 hrs 31 mins █████████████▒░░░░░░░░░░░   52.90 %
+Go                                     67 hrs 26 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+Python                                 8 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+SQL                                    8 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Bash                                   6 hrs 58 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
