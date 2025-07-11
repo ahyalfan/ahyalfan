@@ -19,7 +19,7 @@ jobs:
           BLOCKS: ░▒▓█ # optional
           TIME_RANGE: all_time # optional
           SHOW_TOTAL: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML XML MARKDOWN# optional
+          IGNORED_LANGUAGES: YAML JSON TOML XML MARKDOWN Markdown# optional
           LANG_COUNT: 5 # optional
            ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
