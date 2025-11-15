@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Fandi</h1>
 <h3 align="center">A passionate Web Developer From Indonesia</h3>
 
-- 🌱 I’m currently learning **Backend, Linux, And Machine Learning**
+- 🌱 I’m currently learning **Backend, Linux, And Devops**
 
 - 💬 Ask me about **Freelance and Programming**
 
