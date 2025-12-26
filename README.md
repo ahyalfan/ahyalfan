@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Freelance and Programming**
 
-- 📫 How to reach me **<alfandi0857@gmail.com>**
+- 📫 How to reach me **<ahmadayogialfandi@gmail.com>**
 
 
 ## 📊 Breakdown Waktu Ngoding
