@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                                   35 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+off                                   35 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
